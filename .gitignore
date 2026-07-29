@@ -1,0 +1,10 @@
+# LaTeX intermediate files
+*.aux
+*.dvi
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+
+# Temporary PDF renderings used for visual checks
+tmp/
